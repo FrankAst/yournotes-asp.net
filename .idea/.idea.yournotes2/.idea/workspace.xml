@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="badc5d7b-7e35-4646-a3ff-d2c669118ad8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NoteController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yournotes2/Controllers/NoteController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+              <folding>
+                <marker date="1527449368900" expanded="false" signature="6:155" ph="..." />
+                <marker date="1527449368900" expanded="true" signature="189:2232" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="236:2230" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="338:381" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="495:1153" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="630:1093" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="674:1079" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="710:1024" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="764:1001" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="805:974" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="1269:1635" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="1356:1600" ph="/* Note newNote = new Note(); ... */" />
+                <marker date="1527449368900" expanded="true" signature="1734:1928" ph="{...}" />
+                <marker date="1527449368900" expanded="true" signature="2030:2224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yournotes2/Controllers/UserController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="69" selection-start-line="69" selection-end-line="88" selection-end-column="9" />
+              <folding>
+                <marker date="1527445900440" expanded="false" signature="6:238" ph="..." />
+                <marker date="1527445900440" expanded="true" signature="271:2846" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="318:2844" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="416:459" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="550:1292" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="698:1232" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="737:1218" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="773:1163" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="903:1140" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="944:1113" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="1400:2180" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="1535:2116" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="1621:2102" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="1657:2047" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="1787:2024" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="1828:1997" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="2289:2838" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="2398:2572" ph="{...}" />
+                <marker date="1527445900440" expanded="true" signature="2460:2558" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/yournotes2/Controllers/NoteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/yournotes2/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/yournotes2/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/yournotes2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/yournotes2/Models/Note.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/yournotes2/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yournotes2/Startup.cs" />
+        <option value="$PROJECT_DIR$/yournotes2/Controllers/UserController.cs" />
+        <option value="$PROJECT_DIR$/yournotes2/Models/Note.cs" />
+        <option value="$PROJECT_DIR$/yournotes2/Controllers/NoteController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yournotes2 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yournotes2 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="yournotes2" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yournotes2 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="yournotes2" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yournotes2 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="yournotes2" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/yournotes2/bin/Debug/netcoreapp2.0/yournotes2.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yournotes2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/yournotes2/yournotes2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="badc5d7b-7e35-4646-a3ff-d2c669118ad8" name="Default" comment="" />
+      <created>1527437579501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527437579501</updated>
+      <workItem from="1527437581188" duration="7836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7836000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="4" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yournotes2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="10" selection-start-line="10" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1527437600819" expanded="false" signature="6:255" ph="..." />
+            <marker date="1527437600819" expanded="true" signature="278:564" ph="{...}" />
+            <marker date="1527437600819" expanded="true" signature="304:562" ph="{...}" />
+            <marker date="1527437600819" expanded="true" signature="351:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yournotes2/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yournotes2/Controllers/SampleDataController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yournotes2/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yournotes2/Models/Note.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <marker date="1527446389856" expanded="false" signature="6:110" ph="..." />
+            <marker date="1527446389856" expanded="true" signature="138:478" ph="{...}" />
+            <marker date="1527446389856" expanded="true" signature="162:476" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yournotes2/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527437664459" expanded="false" signature="6:130" ph="..." />
+            <marker date="1527437664459" expanded="true" signature="158:476" ph="{...}" />
+            <marker date="1527437664459" expanded="true" signature="182:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yournotes2/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <marker date="1527443896972" expanded="false" signature="6:391" ph="..." />
+            <marker date="1527443896972" expanded="true" signature="414:1814" ph="{...}" />
+            <marker date="1527443896972" expanded="true" signature="440:1812" ph="{...}" />
+            <marker date="1527443896972" expanded="true" signature="493:542" ph="{...}" />
+            <marker date="1527443896972" expanded="true" signature="673:910" ph="{...}" />
+            <marker date="1527443896972" expanded="true" signature="990:1283" ph="{...}" />
+            <marker date="1527443896972" expanded="true" signature="1026:1083" ph="{...}" />
+            <marker date="1527443896972" expanded="true" signature="1341:1807" ph="{...}" />
+            <marker date="1527443896972" expanded="true" signature="1385:1488" ph="{...}" />
+            <marker date="1527443896972" expanded="true" signature="1574:1724" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yournotes2/Controllers/UserController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="69" selection-start-line="69" selection-end-line="88" selection-end-column="9" />
+          <folding>
+            <marker date="1527445900440" expanded="false" signature="6:238" ph="..." />
+            <marker date="1527445900440" expanded="true" signature="271:2846" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="318:2844" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="416:459" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="550:1292" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="698:1232" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="737:1218" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="773:1163" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="903:1140" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="944:1113" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="1400:2180" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="1535:2116" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="1621:2102" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="1657:2047" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="1787:2024" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="1828:1997" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="2289:2838" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="2398:2572" ph="{...}" />
+            <marker date="1527445900440" expanded="true" signature="2460:2558" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yournotes2/Controllers/NoteController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <folding>
+            <marker date="1527449368900" expanded="false" signature="6:155" ph="..." />
+            <marker date="1527449368900" expanded="true" signature="189:2232" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="236:2230" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="338:381" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="495:1153" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="630:1093" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="674:1079" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="710:1024" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="764:1001" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="805:974" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="1269:1635" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="1356:1600" ph="/* Note newNote = new Note(); ... */" />
+            <marker date="1527449368900" expanded="true" signature="1734:1928" ph="{...}" />
+            <marker date="1527449368900" expanded="true" signature="2030:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

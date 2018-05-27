@@ -1,0 +1,11 @@
+/Users/valerijborodaev/c#/yournotes2/yournotes2/bin/Debug/netcoreapp2.0/yournotes2.deps.json
+/Users/valerijborodaev/c#/yournotes2/yournotes2/bin/Debug/netcoreapp2.0/yournotes2.runtimeconfig.json
+/Users/valerijborodaev/c#/yournotes2/yournotes2/bin/Debug/netcoreapp2.0/yournotes2.runtimeconfig.dev.json
+/Users/valerijborodaev/c#/yournotes2/yournotes2/bin/Debug/netcoreapp2.0/yournotes2.dll
+/Users/valerijborodaev/c#/yournotes2/yournotes2/bin/Debug/netcoreapp2.0/yournotes2.pdb
+/Users/valerijborodaev/c#/yournotes2/yournotes2/obj/Debug/netcoreapp2.0/yournotes2.csprojAssemblyReference.cache
+/Users/valerijborodaev/c#/yournotes2/yournotes2/obj/Debug/netcoreapp2.0/yournotes2.csproj.CoreCompileInputs.cache
+/Users/valerijborodaev/c#/yournotes2/yournotes2/obj/Debug/netcoreapp2.0/yournotes2.AssemblyInfoInputs.cache
+/Users/valerijborodaev/c#/yournotes2/yournotes2/obj/Debug/netcoreapp2.0/yournotes2.AssemblyInfo.cs
+/Users/valerijborodaev/c#/yournotes2/yournotes2/obj/Debug/netcoreapp2.0/yournotes2.dll
+/Users/valerijborodaev/c#/yournotes2/yournotes2/obj/Debug/netcoreapp2.0/yournotes2.pdb
