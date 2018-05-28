@@ -38,32 +38,51 @@ namespace yournotes.Controllers {
         }
 
         [HttpPost("/notes")]
-        public async Task<IActionResult> CreateNote([FromBody] Note note, User user) {
-            Console.WriteLine(note.Text);
-            Console.WriteLine(user.Email);
-//            Note newNote = new Note();
-//            newNote.Title = note.Title;
-//            note.User = user;
-//            user.Notes.Add(note);
-//            await _context.Notes.AddAsync(note);
-//            _context.Users.Update(user);
-            return Ok();
+        public async Task<IActionResult> CreateNote([FromBody] CreateNoteRequest req) {
+            var users = await _context.Users.Include(u => u.Notes).ToArrayAsync();
+            foreach (var u in users) {
+                if (u.Id.Equals(req.user.Id)) {
+                    u.Notes.Add(req.note);
+                    await _context.SaveChangesAsync();
+                    return Ok("note creaed successfuly");
+                }
+            }
+
+            return BadRequest("User not found at creating new note");
         }
         
         [HttpPut("/notes")]
-        public IActionResult UpdateNote([FromBody] Note note)
-        {
-            Console.WriteLine("looooooooooooooooooooooooooooooooooooooooooooooool");
-            Console.WriteLine(note.Text);
-            return Json(new JsonResult(note));
+        public async Task<IActionResult> UpdateNote([FromBody] Note note) {
+            var notes = await _context.Notes.ToArrayAsync();
+            foreach (var n in notes) {
+                if (n.Id.Equals(note.Id)) {
+                    if(note.Text != null) n.Title = note.Title;
+                    if(note.Title != null) n.Text = note.Text;
+                    await _context.SaveChangesAsync();
+                    return Ok("note updated successfuly");
+                }
+            }
+            return BadRequest("Note not found at updating note");
         }
         
         [HttpDelete("/notes")]
-        public IActionResult DeleteNote([FromBody] Note note)
-        {
-            Console.WriteLine("looooooooooooooooooooooooooooooooooooooooooooooool");
-            Console.WriteLine(note.Text);
-            return Json(new JsonResult(note));
+        public async Task<IActionResult> DeleteNote([FromBody] Note note) {
+            var notes = await _context.Notes.ToArrayAsync();
+            foreach (var n in notes) {
+                if (n.Id.Equals(note.Id)) {
+                    _context.Notes.Remove(n);
+                    await _context.SaveChangesAsync();
+                    return Ok("note deleted successfuly");
+                }
+            }
+            
+            return BadRequest("Note not found at deleting note");
+        }
+        
+        
+        public class CreateNoteRequest {
+            public Note note { get; set; }
+            public User user { get; set; }
         }
     }
 }
